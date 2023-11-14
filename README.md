@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Antoniocolapso.Antoniocolapso" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omm !;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omm !;"/>
 </h1>
 
 <h3 align="center">A passionate Competitive Programmer from  India</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Tensorflow**
 
- 💬 Lets get **Conected** [here](https://www.linkedin.com/in/omm-prakash-sahoo-424646234/)**
+ 💬 Lets get **Conected** [here](https://www.linkedin.com/in/omm-prakash-sahoo-424646234/)
 
  ⚡ Fun fact **I am an E-Sports Player also**.
  
