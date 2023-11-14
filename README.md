@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **Lip-Reader**.
  
- 🌱 I’m currently learning **Tensorflow**
+ 🌱 I’m currently learning **Tensorflow**.
+
+  ⚡ Fun fact **I am an E-Sports Player also**.
 
  💬 Lets get **Conected** [here](https://www.linkedin.com/in/omm-prakash-sahoo-424646234/)
-
- ⚡ Fun fact **I am an E-Sports Player also**.
  
  </div>
  
