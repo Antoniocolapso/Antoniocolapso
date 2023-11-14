@@ -62,14 +62,13 @@
       <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Antoniocolapso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniocolapso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniocolapso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  alt="Top Languages"  />
 </div>
 
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+eager+to+collab+:)">
-</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Antoniocolapso&column=9&theme=react" alt="Antoniocolapso" /></a> </p>
 
 <br/>
