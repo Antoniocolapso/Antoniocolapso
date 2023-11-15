@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **Lip-Reader**.
  
- 🌱 I’m currently learning **Tensorflow**.
+ 🌱 I’m currently learning machine learning with **Tensorflow**.
 
   ⚡ Fun fact **I am an E-Sports Player also**.
 
