@@ -13,11 +13,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Lip-Reader**.
+ 🔭 I’m currently working on **HASO Campus Food Delivery App**.
  
- 🌱 I’m currently learning machine learning with **Tensorflow**.
+ 🌱 I’m currently learning Android App Development in **KOTLIN**.
 
-  ⚡ Fun fact **I am an E-Sports Player also**.
+  ⚡ Fun fact **I am an E-Sports Player also** who won multiple tournaments.
 
  💬 Lets get **Conected** [here](https://www.linkedin.com/in/omm-prakash-sahoo-424646234/)
  
